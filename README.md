@@ -13,3 +13,5 @@ Adjustable CFG Scale: A slider is provided to modify the Classifier-Free Guidanc
 
 The application leverages Python and PyTorch for the backend image generation. After successful generation, the resultant image is displayed directly within the Gradio interface for immediate review, as shown below.
 ![Project Screenshot](https://github.com/ParnyanAtaei/Gradio-text-to-image-generator/blob/main/sdxl.PNG)
+a short video:https://youtu.be/1vj6uWipNvM
+[![Video Demo Thumbnail](assets/video_thumbnail.png)](https://youtu.be/1vj6uWipNvM "Watch the full demo on YouTube")
