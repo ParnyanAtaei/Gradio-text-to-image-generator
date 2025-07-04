@@ -11,4 +11,5 @@ Configurable Image Dimensions: Users can precisely control the output image widt
 
 Adjustable CFG Scale: A slider is provided to modify the Classifier-Free Guidance (CFG) scale. This parameter allows users to control how strongly the generated image adheres to the provided text prompt (higher values lead to closer adherence).
 
-The application leverages Python and PyTorch for the backend image generation. After successful generation, the resultant image is displayed directly within the Gradio interface for immediate review, as shown below.![Alt text for the image](C:\Users\asus\Desktop)
+The application leverages Python and PyTorch for the backend image generation. After successful generation, the resultant image is displayed directly within the Gradio interface for immediate review, as shown below.
+![Alt text for the image]([https://github.com/ParnyanAtaei/Gradio-text-to-image-generator/blob/main/sdxl.PNG])
